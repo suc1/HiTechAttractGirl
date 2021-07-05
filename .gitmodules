@@ -1,0 +1,3 @@
+[submodule "ProtectPhoto"]
+	path = ProtectPhoto
+	url = https://github.com/shawn-shan/fawkes
