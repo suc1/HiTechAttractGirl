@@ -14,3 +14,6 @@ Let's Go
 2. ProtectPhoto 对自己的照片加入干扰，使AI对同一个人的照片识别成两个不同的人:
 	https://github.com/Shawn-Shan/fawkes
 	https://mp.weixin.qq.com/s/EJ4wa5uLes83W-ze4c75Vg
+3. GifEmotion 在动画里面加入姓名字母:
+	GifEmotion\images\me.png 改成女朋友的照片就可以了。
+	注意微信里面只能使用表情，而且小于1M。照片的大小非常影响GIF大小
