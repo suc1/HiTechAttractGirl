@@ -17,3 +17,5 @@ Let's Go
 3. GifEmotion 在动画里面加入姓名字母:
 	GifEmotion\images\me.png 改成女朋友的照片就可以了。
 	注意微信里面只能使用表情，而且小于1M。照片的大小非常影响GIF大小
+	gif压缩 & 裁剪
+	https://www.yasuotu.com/gif
