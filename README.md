@@ -19,5 +19,6 @@ Let's Go
 	注意微信里面只能使用表情，而且小于1M。照片的大小非常影响GIF大小
 	gif压缩 & 裁剪
 	https://www.yasuotu.com/gif
-4. 把人跳舞视频变成字母跳舞
+4. DanceVideo 把人跳舞/运动视频变成字母跳舞，参照
 	https://mp.weixin.qq.com/s/xHDu__5vA8nZOFKLSo9JzQ
+5. SliceVideo 从一大段视频选出一小段
