@@ -23,4 +23,6 @@ Let's Go
 ![alt 姓名动画](https://github.com/suc1/HiTechAttractGirl/blob/main/GifEmotion/HANDSOME.gif?raw=true)
 4. DanceVideo 把人跳舞/运动视频变成字母跳舞，参照
 	https://mp.weixin.qq.com/s/xHDu__5vA8nZOFKLSo9JzQ
+![alt 原始跳舞](https://github.com/suc1/HiTechAttractGirl/blob/main/DanceVideo/video.mp4)
+![alt 字母跳舞](https://github.com/suc1/HiTechAttractGirl/blob/main/DanceVideo/charDance.mp4)
 5. SliceVideo 从一大段视频选出一小段
