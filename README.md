@@ -11,6 +11,7 @@ Let's Go
 
 **目录列表**
 1. ErWeiMaBiaoBai 二维码表白
+![alt 二维码表白](https://github.com/suc1/HiTechAttractGirl/blob/main/ErWeiMaBiaoBai/qrcode.jpg?raw=true)
 2. ProtectPhoto 对自己的照片加入干扰，使AI对同一个人的照片识别成两个不同的人:
 	https://github.com/Shawn-Shan/fawkes
 	https://mp.weixin.qq.com/s/EJ4wa5uLes83W-ze4c75Vg
